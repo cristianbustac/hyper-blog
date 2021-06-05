@@ -1,0 +1,4 @@
+este es mi archivo de texto plano
+en el voy a escribir cosas que me ayudaran en
+mi proceso de aprendizaje de git y github 
+
