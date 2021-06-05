@@ -3,6 +3,7 @@ en el voy a escribir cosas que me ayudaran en
 mi proceso de aprendizaje de git y github 
 
 este es el segundo mensaje que escribo 
-para poder modificar el anterior 
+para poder modificar el anterior .
 
-
+soy cristian andres bustamante caro
+ 
