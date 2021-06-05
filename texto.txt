@@ -1,9 +1,11 @@
 Este es mi archivo de texto plano
-en el voy a escribir cosas que me ayudaran en
+en el voy a escribir cosas que serviran en
 mi proceso de aprendizaje de git y github 
 
 este es el segundo mensaje que escribo 
 para poder modificar el anterior .
 
-soy cristian andres bustamante caro
- 
+soy Cristian Andres Bustamante Caro
+
+estudiante de ingenieria mecatronica en el itm 
+y estudiante de programacion  
