@@ -1,0 +1,9 @@
+comandos de git
+
+git log = sirve para ver la historia de los cambios
+git show = muestra el estado del archivo en su ultima version
+git add = agregamos el archivo con los cambios
+git commit = decimos que se le cmabio al archivo 
+git diff = con este podemos ver las diferencias en las versiones con su commit
+git checkout = se trae los cambios a tu carpeta
+git reset(--hard --soft) = nos permite volver a un version anterior
