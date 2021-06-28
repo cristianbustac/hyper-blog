@@ -1,5 +1,6 @@
 comandos de git
 
+
 git log = sirve para ver la historia de los cambios
 git show = muestra el estado del archivo en su ultima version
 git add = agregamos el archivo con los cambios
